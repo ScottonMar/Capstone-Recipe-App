@@ -1,0 +1,13 @@
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\security\SecurityConfig.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\service\MealDbService.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\external\MealDbIngredientItem.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\RecipeIngredient.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\external\MealDbMeal.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\service\MealDbMapper.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\RecipeBackendApplication.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\service\impl\MealDbServiceImpl.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\config\ExternalApiConfig.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\external\MealDbIngredientListResponse.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\controller\api\MealDbProxyController.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\Recipe.java
+C:\Git\Apprenti-Java\recipe-backend\src\main\java\com\example\recipe\model\external\MealDbResponse.java
